@@ -1,7 +1,7 @@
 ## Set Trainer
 
 In-browser, single-player version of the card game [Set](http://en.wikipedia.org/wiki/Set_%28game%29).
-Read the documentation [here](http://www.johnloeber.com/docs/set.html) or play the game [here](http://www.johnloeber.com/set)
+Read the documentation [here](http://www.johnloeber.com/docs/set.html) or play the game [here](http://www.johnloeber.com/set).
 
 ## Todo
 
@@ -15,5 +15,5 @@ Even though I currently consider this project finished, following are some thing
 - animations, perhaps?
 - use the graphics of the actual Set game (the 3 shapes being oval, tilde, and diamond)
 - insert cookies to save sessions
-..- add a reset button to reset the session
+-- add a reset button to reset the session
 - multiplayer mode
