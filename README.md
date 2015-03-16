@@ -1,4 +1,4 @@
-## Set Trainer
+# Set Trainer
 
 In-browser, single-player version of the card game [Set](http://en.wikipedia.org/wiki/Set_%28game%29).
 Read the documentation [here](http://www.johnloeber.com/docs/set.html) or play the game [here](http://www.johnloeber.com/set).
@@ -14,6 +14,7 @@ Even though I currently consider this project finished, following are some thing
 - refactor code and express sets in terms of integer-valued vectors for easier computations
 - animations, perhaps?
 - use the graphics of the actual Set game (the 3 shapes being oval, tilde, and diamond)
+- add a timer
 - insert cookies to save sessions
     - add a reset button to reset the session
 - multiplayer mode
