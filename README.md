@@ -15,5 +15,5 @@ Even though I currently consider this project finished, following are some thing
 - animations, perhaps?
 - use the graphics of the actual Set game (the 3 shapes being oval, tilde, and diamond)
 - insert cookies to save sessions
--- add a reset button to reset the session
+    - add a reset button to reset the session
 - multiplayer mode
